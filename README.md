@@ -19,5 +19,6 @@ Feel free to explore each folder based on your interests and learning goals:
 - **Programs**: Review and execute the solved problems to enhance your algorithmic thinking and programming skills.
 - **Projects**: Dive into complete projects to gain hands-on experience in building real-world applications using C and C++.
 
+---
 
-
+Thank you for visiting this repository. We hope you find these resources helpful in your learning journey!
